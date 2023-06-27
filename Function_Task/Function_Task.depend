@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1687806801 source:d:\embeded_course\function_task\main.c
+	"Calculator.h"
+
+1687806780 d:\embeded_course\function_task\calculator.h
+	<stdio.h>
+	<stdlib.h>
+
